@@ -74,7 +74,7 @@
 ### 📫 Let's Connect!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/anji-chinni14/)
 - 📬 chinni.anjaneyulu22@gmail.com
-- 🌐 [Portfolio (Coming Soon)](https://github.com/AnjaneyuluChinni)
+- 🌐 [Portfolio](https://anjaneyuluchinni.github.io/Portfolio/)
 
 ---
 
