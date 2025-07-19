@@ -34,7 +34,7 @@
   ML model predicting high-value customer churn using SMOTE + XGBoost.  
   _Business insights helped reduce churn risk_
 
-- **📄 martResumeScan** *(In Progress)*  
+- **📄 martResumeScan**  
   AI-powered resume screener using LLMs (LangChain + OpenAI) and Streamlit for HR automation.  
   _Score, feedback, and JD matching in one click!_
 
